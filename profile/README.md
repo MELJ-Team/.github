@@ -1,4 +1,4 @@
-<img src="./MELJ.png" alt="Logo" width="200" />
+<img src="../MELJ.png" alt="Logo" width="200" />
 
 
 
